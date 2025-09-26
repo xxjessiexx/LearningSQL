@@ -18,7 +18,7 @@ The repo is organized into folders, starting with the **basics** and gradually m
 
 ---
 
-## 🎯 Goals
+##  Goals
 - Document my progress as I learn.
 - Create a resource I (and others) can look back on.
 - Build a portfolio of SQL skills for future opportunities.
